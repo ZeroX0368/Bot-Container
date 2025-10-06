@@ -4,6 +4,9 @@ A Discord bot built with Node.js and Discord.js featuring slash commands for var
 
 ## Made By Bucu0368
 
+## Bucu0368
+- Có thể bị lỗi join My Server ![here](https://discord.gg/Zg2XkS5hq9) Edit channelID ![here](https://github.com/ZeroX0368/Bot-Container/blob/main/Events/consolelog.js)
+
 ## Features
 - `/server icon` - Get Server Icon
 - `/server info` - Get server information
