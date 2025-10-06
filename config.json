@@ -1,0 +1,11 @@
+
+{
+  "DISCORD_BOT_TOKEN": "token here",
+  "DISCORD_CLIENT_ID": "client id for load cmd",
+  "MONGODB_URI": "mongodb+srv://codex-in1:codex-in1@codex-in1.1bgxp.mongodb.net/?retryWrites=true&w=majority",
+  "OwnerID": "1142053791781355561",
+  "EmbedColor": "#0099FF",
+  "ErrorColor": "#FF0000",
+  "Support": "https://discord.gg/Zg2XkS5hq9",
+  "FeedBackChannelID": "YOUR_FEEDBACK_CHANNEL_ID_HERE"
+}
