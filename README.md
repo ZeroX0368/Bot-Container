@@ -5,10 +5,8 @@ A Discord bot built with Node.js and Discord.js featuring slash commands for var
 ## Made By Bucu0368
 
 ## Features
-- `/ping` - Test bot responsiveness
-- `/hello` - Greet users
-- `/userinfo` - Get user information
-- `/serverinfo` - Get server information
+- `/server icon` - Get Server Icon
+- `/server info` - Get server information
 
 ## Setup
 
