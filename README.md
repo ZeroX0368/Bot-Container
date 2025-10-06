@@ -1,2 +1,34 @@
-# Bot-Container
-Bot Container System &amp; Mongodb
+## 🤖 Discord Bot with Slash Commands
+
+A Discord bot built with Node.js and Discord.js featuring slash commands for various server utilities.
+
+## Made By Bucu0368
+
+## Features
+- `/ping` - Test bot responsiveness
+- `/hello` - Greet users
+- `/userinfo` - Get user information
+- `/serverinfo` - Get server information
+
+## Setup
+
+1. **Create a Discord Application:**
+   - Go to [Discord Developer Portal](https://discord.com/developers/applications)
+   - Click "New Application" and give it a name
+   - Go to the "Bot" section and create a bot
+   - Copy the bot token
+
+2. **Set up Environment Variables:**
+   - Add `DISCORD_BOT_TOKEN` with your bot token
+   - Add `DISCORD_CLIENT_ID` with your application ID
+
+3. **Invite Bot to Server:**
+   - Go to OAuth2 > URL Generator
+   - Select "bot" and "applications.commands" scopes
+   - Select necessary permissions
+   - Use the generated URL to invite your bot
+
+## 🚀 Quick Start
+```bash
+npm install
+node index.js
