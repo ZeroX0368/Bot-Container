@@ -12,7 +12,7 @@ module.exports = {
         .setName('autorole')
         .setDescription('Manages automatic role assignments for new members.')
         .setDMPermission(false) // This command is guild-specific
-        .setDefaultMemberPermissions(PermissionsBitField.Flags.ManageRoles) // Only users with Manage Roles can use this command
+        .setDefaultMemberPermissions(PermissionsBitField.Flags.UseApplicationCommands)
 
         // Subcommand Group: Bots
         .addSubcommandGroup(group =>
